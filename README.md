@@ -9,16 +9,18 @@
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Exchange](https://img.shields.io/badge/-Exchange-0078D4?style=flat-square&logo=microsoft-exchange&logoColor=white)
 
-> Started writing Space Shuttle payload software in FORTRAN. Built crypto for the NSA. Somehow ended up spending 20+ years explaining Exchange to people. Life takes you places.
+> Started writing Space Shuttle payload software in FORTRAN. Built crypto for the NSA. Somehow ended up spending 25+ years explaining Exchange to people. Life takes you places.
 
 **Senior Director, Product Management** → [Keepit](https://keepit.com) · enterprise SaaS data protection for the multi-cloud world
+
 **Content & Community** → [Office 365 for IT Pros](https://www.office365itpros.com) · co-author 
 
 ---
 
 ## What I'm about
 
-I've spent the better part of three decades deep in the Microsoft ecosystem — Exchange, Microsoft 365, Azure, and the sprawling world of enterprise collaboration. 
+I've spent the better part of three decades deep in the Microsoft ecosystem — Exchange, Microsoft 365, Azure, and the sprawling world of enterprise collaboration. Before that I was a working developer (ranging from Ada compilers to Shuttle payload software to Windows management tools).
+
 Along the way, I've written books, built products, led teams, and helped some of the world's largest organizations move to the cloud.
 
 These days I'm at [Keepit](https://keepit.com), working on data protection solutions for SaaS and multi-cloud environments. I've also been having a blast returning to
@@ -37,7 +39,9 @@ When I'm not on a computer, I'm probably walking my two beagles, working on my a
 ## Career highlights
 
 🏆 **21× Microsoft MVP** (Exchange / Office Apps & Services) — awarded since 2002
+
 🏛️ **Exchange Server Hall of Fame** — inducted 2014
+
 📚 **Published author** — multiple books on Exchange Server via Microsoft Press
 
 ## Projects & repos
@@ -50,7 +54,7 @@ When I'm not on a computer, I'm probably walking my two beagles, working on my a
 
 [![X](https://img.shields.io/badge/-@paulrobichaux-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/paulrobichaux)
 [![LinkedIn](https://img.shields.io/badge/-Paul_Robichaux-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/probichaux/)
-[![Blog](https://img.shields.io/badge/-paulrobichaux.wordpress.com-21759B?style=flat-square&logo=wordpress&logoColor=white)](http://www.paulrobichaux.com)
+[![Blog](https://img.shields.io/badge/-www.paulrobichaux.com-21759B?style=flat-square&logo=wordpress&logoColor=white)](http://www.paulrobichaux.com)
 
 ---
 
