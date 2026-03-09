@@ -46,6 +46,8 @@ When I'm not on a computer, I'm probably walking my two beagles, working on my a
 
 ## Projects & repos
 
+🖥️ **[KeepitMenuBar](https://github.com/probichaux/KeepitMenuBar)** - simple macOS menubar extension for checking on the state of your Keepit backup connectors.
+
 🤖 **[ClawdSkills](https://github.com/probichaux/ClawdSkills)** — Skills for Claude Code (Clawdbot). Because AI assistants should know how to do useful things.
 
 📘 **[azure-docs](https://github.com/probichaux/azure-docs)** *(fork)* — Contributing to the open source documentation for Microsoft Azure.
