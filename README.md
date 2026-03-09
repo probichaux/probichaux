@@ -1,16 +1,66 @@
-## Hi there 👋
+# Hi, I'm Paul Robichaux
 
-<!--
-**probichaux/probichaux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 **Alabama, USA** &nbsp;|&nbsp; ☁️ **Microsoft 365 × Data Protection** &nbsp;|&nbsp; 🏆 **21× Microsoft MVP. Exchange Hall of Famer. Still reading Message Center posts.**
 
-Here are some ideas to get you started:
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/-Microsoft_365-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Exchange](https://img.shields.io/badge/-Exchange-0078D4?style=flat-square&logo=microsoft-exchange&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Started writing Space Shuttle payload software in FORTRAN. Built crypto for the NSA. Somehow ended up spending 20+ years explaining Exchange to people. Life takes you places.
+
+**Senior Director, Product Management** → [Keepit](https://keepit.com) · enterprise SaaS data protection for the multi-cloud world
+**Content & Community** → [Office 365 for IT Pros](https://www.office365itpros.com) · co-author 
+
+---
+
+## What I'm about
+
+I've spent the better part of three decades deep in the Microsoft ecosystem — Exchange, Microsoft 365, Azure, and the sprawling world of enterprise collaboration. 
+Along the way, I've written books, built products, led teams, and helped some of the world's largest organizations move to the cloud.
+
+These days I'm at [Keepit](https://keepit.com), working on data protection solutions for SaaS and multi-cloud environments. I've also been having a blast returning to
+my developer roots (but with modern tools!) digging into building MCP servers, using local LLMs, and exploring the AI world.
+
+When I'm not on a computer, I'm probably walking my two beagles, working on my airplane, or thinking about the beach.
+
+
+## Currently
+
+- 🛡️ **Product Management @ [Keepit](https://keepit.com)** — building enterprise-grade data protection for SaaS workloads
+- 🎙️ **Co-hosting the [Practical 365 Podcast](https://practical365.com/podcasts/)** — weekly deep dives into M365 news, Exchange Online, and admin life
+- 🤖 **Tinkering with AI + enterprise tools** — MCP bridges, Claude skills, and automation experiments
+- ✍️ **Writing** — still doing it after all these years, just with fewer page counts and more blog posts
+
+## Career highlights
+
+🏆 **21× Microsoft MVP** (Exchange / Office Apps & Services) — awarded since 2002
+🏛️ **Exchange Server Hall of Fame** — inducted 2014
+📚 **Published author** — multiple books on Exchange Server via Microsoft Press
+
+## Projects & repos
+
+🤖 **[ClawdSkills](https://github.com/probichaux/ClawdSkills)** — Skills for Claude Code (Clawdbot). Because AI assistants should know how to do useful things.
+
+📘 **[azure-docs](https://github.com/probichaux/azure-docs)** *(fork)* — Contributing to the open source documentation for Microsoft Azure.
+
+## Connect
+
+[![X](https://img.shields.io/badge/-@paulrobichaux-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/paulrobichaux)
+[![LinkedIn](https://img.shields.io/badge/-Paul_Robichaux-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/probichaux/)
+[![Blog](https://img.shields.io/badge/-paulrobichaux.wordpress.com-21759B?style=flat-square&logo=wordpress&logoColor=white)](http://www.paulrobichaux.com)
+
+---
+
+<details>
+<summary>Random facts</summary>
+
+- Wrote FORTRAN for the Space Shuttle before most developers were born. Still can't explain why FORTRAN uses ALL CAPS.
+- Spent time writing crypto software for NSA. Can neither confirm nor deny that it was fun.
+- Has been explaining Exchange Server to people since before Gmail existed.
+- Currently fascinated by MCP, local LLMs, and the idea that AI agents could handle the boring parts of IT administration.
+- Lives in Alabama. Fueled by coffee, curiosity, and avgas.
+
+</details>
