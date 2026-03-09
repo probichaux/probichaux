@@ -2,8 +2,8 @@
 
 📍 **Alabama, USA** &nbsp;|&nbsp; ☁️ **Microsoft 365 × Data Protection** &nbsp;|&nbsp; 🏆 **21× Microsoft MVP. Exchange Hall of Famer. Still reading Message Center posts.**
 
+![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Microsoft 365](https://img.shields.io/badge/-Microsoft_365-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
