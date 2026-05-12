@@ -38,7 +38,7 @@ When I'm not on a computer, I'm probably walking my two beagles, working on my a
 
 ## Career highlights
 
-🏆 **21× Microsoft MVP** (Exchange / Office Apps & Services) — awarded since 2002
+🏆 **22× Microsoft MVP** (Exchange / Office Apps & Services) — awarded since 2003
 
 🏛️ **Exchange Server Hall of Fame** — inducted 2014
 
@@ -47,6 +47,8 @@ When I'm not on a computer, I'm probably walking my two beagles, working on my a
 ## Projects & repos
 
 🖥️ **[KeepitMenuBar](https://github.com/probichaux/KeepitMenuBar)** - simple macOS menubar extension for checking on the state of your Keepit backup connectors.
+
+🛩️ **[FlightMap](https://github.com/probichaux/flightmap)** - simple web utility that plots great-circle maps showing flights you've flown: copy your logbook content, paste it, and get a cool map.
 
 🤖 **[ClawdSkills](https://github.com/probichaux/ClawdSkills)** — Skills for Claude Code (Clawdbot). Because AI assistants should know how to do useful things.
 
