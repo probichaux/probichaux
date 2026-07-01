@@ -13,7 +13,7 @@
 
 **Senior Director, Product Management** → [Keepit](https://keepit.com) · enterprise SaaS data protection for the multi-cloud world
 
-**Content & Community** → [Office 365 for IT Pros](https://www.office365itpros.com) · co-author 
+**Content & Community** → [Microsoft 365 for IT Pros](https://www.office365itpros.com) · co-author 
 
 ---
 
@@ -32,7 +32,6 @@ When I'm not on a computer, I'm probably walking my two beagles, working on my a
 ## Currently
 
 - 🛡️ **Product Management @ [Keepit](https://keepit.com)** — building enterprise-grade data protection for SaaS workloads
-- 🎙️ **Co-hosting the [Practical 365 Podcast](https://practical365.com/podcasts/)** — weekly deep dives into M365 news, Exchange Online, and admin life
 - 🤖 **Tinkering with AI + enterprise tools** — MCP bridges, Claude skills, and automation experiments
 - ✍️ **Writing** — still doing it after all these years, just with fewer page counts and more blog posts
 
@@ -42,9 +41,9 @@ When I'm not on a computer, I'm probably walking my two beagles, working on my a
 
 🏛️ **Exchange Server Hall of Fame** — inducted 2014
 
-📚 **Published author** — multiple books on Exchange Server via Microsoft Press
+📚 **Published author** — multiple books on Windows, Exchange Server, and Microsoft 365
 
-## Projects & repos
+## A few selected projects & repos
 
 🖥️ **[KeepitMenuBar](https://github.com/probichaux/KeepitMenuBar)** - simple macOS menubar extension for checking on the state of your Keepit backup connectors.
 
