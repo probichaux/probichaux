@@ -1,6 +1,6 @@
 # Hi, I'm Paul Robichaux
 
-📍 **Alabama, USA** &nbsp;|&nbsp; ☁️ **Microsoft 365 × Data Protection** &nbsp;|&nbsp; 🏆 **21× Microsoft MVP. Exchange Hall of Famer. Still reading Message Center posts.**
+📍 **Alabama, USA** &nbsp;|&nbsp; ☁️ **Microsoft 365 × Data Protection** &nbsp;|&nbsp; 🏆 **22× Microsoft MVP. Exchange Hall of Famer. Still reading Message Center posts.**
 
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
@@ -19,7 +19,7 @@
 
 ## What I'm about
 
-I've spent the better part of three decades deep in the Microsoft ecosystem — Exchange, Microsoft 365, Azure, and the sprawling world of enterprise collaboration. Before that I was a working developer (ranging from Ada compilers to Shuttle payload software to Windows management tools).
+I've spent nearly four decades deep in the Microsoft ecosystem — Exchange, Microsoft 365, Azure, and the sprawling world of enterprise collaboration. Before that I was a working developer (ranging from Ada compilers to Shuttle payload software to Windows management tools). Funnily enough, now I'm a working developer again, with generous assistance from Claude and GitHub Copilot.
 
 Along the way, I've written books, built products, led teams, and helped some of the world's largest organizations move to the cloud.
 
