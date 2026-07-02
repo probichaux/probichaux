@@ -45,6 +45,8 @@ When I'm not on a computer, I'm probably walking my two beagles, working on my a
 
 ## A few selected projects & repos
 
+🐚 **[Keepit PowerShell Tools](https://github.com/keepit-official/PowerShellTools)** - PowerShell module for working with Keepit accounts, connectors, and backups.
+
 🖥️ **[KeepitMenuBar](https://github.com/probichaux/KeepitMenuBar)** - simple macOS menubar extension for checking on the state of your Keepit backup connectors.
 
 🛩️ **[FlightMap](https://github.com/probichaux/flightmap)** - simple web utility that plots great-circle maps showing flights you've flown: copy your logbook content, paste it, and get a cool map.
