@@ -44,6 +44,7 @@ When I'm not on a computer, I'm probably walking my two beagles, working on my a
 📚 **Published author** — multiple books on Windows, Exchange Server, and Microsoft 365
 
 ## A few selected projects & repos
+😵‍💫 **[M365Mutator](https://github.com/probichaux/m365mutator)** - automated tool for freshening tenant data by changing Entra ID user attributes, sending/receiving/deleting email, updating calendar items, etc. Great for testing and backups.
 
 🐚 **[Keepit PowerShell Tools](https://github.com/keepit-official/PowerShellTools)** - PowerShell module for working with Keepit accounts, connectors, and backups.
 
