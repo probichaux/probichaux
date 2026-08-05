@@ -1,6 +1,6 @@
 # Hi, I'm Paul Robichaux
 
-📍 **Alabama, USA** &nbsp;|&nbsp; ☁️ **Microsoft 365 × Data Protection** &nbsp;|&nbsp; 🏆 **22× Microsoft MVP. Exchange Hall of Famer. Still reading Message Center posts.**
+📍 **Alabama, USA** &nbsp;|&nbsp; ☁️ **Microsoft 365 × Data Protection** &nbsp;|&nbsp; 🏆 **24× Microsoft MVP. Exchange Hall of Famer. Still reading Message Center posts.**
 
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
