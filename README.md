@@ -37,7 +37,7 @@ When I'm not on a computer, I'm probably walking my two beagles, working on my a
 
 ## Career highlights
 
-🏆 **22× Microsoft MVP** (Exchange / Office Apps & Services) — awarded since 2003
+🏆 **24× Microsoft MVP** (Exchange / Office Apps & Services) — awarded since 2003
 
 🏛️ **Exchange Server Hall of Fame** — inducted 2014
 
@@ -54,7 +54,6 @@ When I'm not on a computer, I'm probably walking my two beagles, working on my a
 
 🤖 **[ClawdSkills](https://github.com/probichaux/ClawdSkills)** — Skills for Claude Code (Clawdbot). Because AI assistants should know how to do useful things.
 
-📘 **[azure-docs](https://github.com/probichaux/azure-docs)** *(fork)* — Contributing to the open source documentation for Microsoft Azure.
 
 ## Connect
 
